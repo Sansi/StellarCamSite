@@ -1,129 +1,123 @@
-# Stellar Cam 帮助
+# Stellar Cam Support
 
-## 简介
+## Introduction
 
-Stellar Cam是一套智能安全照明系统，可以用手机控制灯和摄像头。该系统具有实时观看摄像头画面，实时对讲功能、自动录制保存可疑画面、报警推送到手机、警笛、定时开关灯，红外感应等功能。
+Stellar Cam is an intelligence security lighting system; with the mobile phone the users can control the light and the camera. The system features: real-time camera monitoring, real-time intercom, automatic video recording / saving suspicious events, alert push-notification to mobile phone, alarm buzzing, time-setting for switching on/off, infrared sensing etc.
 
-## 获取应用
+## Getting the App
 
-* iOS 用户在“App Store”中搜索并安装“Stellar Cam”。 
-* 安卓用户在Google Play中搜索并安装“Stellar Cam”。 
-* 或扫描下方二维码，下载应用。
+* iOS users: search the App Stellar Cam in the App Store and then install it. 
+* Android users: search the App Stellar Cam in the Google Play and then install it. 
+* Or scan the below QR code for downloading the App.
 
-## 安装设备
+## Installing the product
 
-将灯固定在合适位置，调整灯、摄像仪至合适位置，插入电源。
+Fix the product at a proper position. Then adjust the product / camera to a suitable position and then connect the product with the power supply.
 
-## APP 操作简介
+## Introducing the App
 
-### 1. 注册账号
+### 1. Registering the account
 
-* 打开Stellar Cam应用，点击注册账号。已有账号，直接登录。
+* Open the App Stellar Cam and then click “SIGN UP”. If the account already exists, then click “LOG IN” to log in to your account directly.
 
 ![](./images/1.jpg)
 
-* 输入邮箱和登录密码，点击注册账号，注册成功后将自动登录到APP主页。
+* Type in the email address and password, and then click “SIGN UP”. It logs in to the account automatically and switches to App homepage after successful registration.
 
 ![](./images/2.jpg)
 
-### 2. 账号管理
-* 点击侧边栏中的编辑图标进入用户信息界面，修改昵称、邮件和密码。
+### 2. Managing the account
+* Click the icon ＠ in the sidebar to access the account information for editing the display name, email address and password. 
 
 ![](./images/3.jpg)
 ![](./images/4.jpg)
 
-* 点击侧边栏中的 设置 进入设置界面。
+* Click the “Setting” in the sidebar to access the setting.
 
-![](./images/5.jpg)
-
-* 在关于我们界面，你可以访问我们公司的官网，或者发邮件联系我们。
+* In the “About”, you can visit the official web page of our company or contact us via the email.
 
 ![](./images/6.jpg)
 	
-### 3. 添加设备
+### 3. Adding a device
 
-1. 点击中间 "＋" 或者侧边栏的Set up device。
-2. 设置设备名称
+1. Click the “＋” in the middle or “Set up device” in the sidebar.
+2. Set up the description of the device.
 
 ![](./images/7.jpg)
 
-3. 查看操作指南
+3. Reading the install tutorial
 
 ![](./images/8.jpg)
 
-4. 选择目标网络，设置密码，最后点击保存按钮，将安防灯加入目标网络，此操作可能需要1分钟左右
+4. Select the Wi-Fi network, set up the password and then click “Save” to add the device to the Wi-Fi network. This procedure needs approximately 1 minute. 
 
 ![](./images/9.jpg)
 
-5. 当提示连接成功后，返回Security-Light主界面，就能找到在列表中找到灯啦。(如果多次刷新列表都没有找到灯，请重新尝试上述步骤)
+5. If the connection is successfully set up, go back to the App homepage and you will find the device in the list. If you cannot find the device after refreshing the list for several times, repeat the procedure as above mentioned.
 
 ![](./images/10.jpg)
 
-### 4. 视频播放
+### 4. Playing the video
 
-1. 播放报警视屏，点击右上角可以下载该视屏，在侧边栏的Download video中查看已下载的视屏
+1. Playing the alert video. For downloading the video click the top-right corner. Watch the downloaded video in the “Download video” in the sidebar.
 
 ![](./images/11.jpg)
 
-### 5. 设备
+### 5. Device
 
-1. 点击设备，进入设备详情。
-2. 点击上部图片进去直播界面。
-3. SIREN使设备发出警铃声，直至主动关闭。
-4. MOTION ALERTS 配置是否接收手机报警推送
-5. LIGHTS控制灯的开关。
+1. Click the device to access the device details.
+2. Click the upper image to access the live video.
+3. SIREN: alarm buzzing until manually switched off.
+4. MOTION ALERTS: configuring whether the mobile phone receives alert push-notification.
+5. LIGHTS: switching on / off the product
 
 ![](./images/12.jpg)
 
-### 6. 在线直播
+### 6. Online live-video
 
-1. 查看摄像头实时画面
-2. 右上角可选择画面的清晰度
-3. 控制灯，警铃的开关
-4. 按住话筒按钮可进行实时对讲
+1. Watching the real-time monitoring screen via the camera.
+2. Selecting the options of the video resolution  on the top-right side.
+3. Switching on / off the product and the alarm buzzer.
+4. Keeping the microphone button pressed for real-time intercom.
 
 ![](./images/13.png)
 	
-### 7. 设备详情
+### 7. Device details
 
-1. 可以修改设备名称
-2. 查看设备MAC地址
-3. 设备硬件升级
-4. 设备软件升级
-5. 删除设备
+1. Changing the description of the device
+2. Checking the MAC address
+3. Upgrading the hardware
+4. Updating the software
+5. Deleting the device
 
 ![](./images/14.jpg)
  	
-### 8. 历史视频
+### 8. Event history
 
-1. 可以查看30天内报警视频
+1. The alert videos can be saved for 30 days.
 
 ![](./images/15.jpg)
 
-### 9. 运动检测设置
+### 9. Setting the motion
 
-1. 设置是否开启报警及视屏的录制
-2. 设置摄像头灵敏度
+1. Setting whether switching on the alert and video record functions.
+2. Setting the motion sensitivity of the camera.
 
 ![](./images/16.jpg)
 
-3. 设置禁止报警及视屏的录制的时间段
-
+Setting the time period for disabled alert and video record functions.
 ![](./images/17.jpg)
 	
-### 10. 灯光设置
+### 10. Setting the light
 
-1. 设置自动开灯的时间段，一般设置成晚上
+1. Setting the time period for automatic switching-on, usually set the night as the time period.
 
 ![](./images/18.jpg)
 
-2. 设置红外感应的范围及区域
-3. 设置灯亮起的持续时间
+2. Setting the coverage range and area of the infrared sensing. 
+3. Setting the light-up duration time of the light.
 
 ![](./images/19.jpg)
-
-
-
 
 
 
