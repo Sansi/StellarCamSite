@@ -7,7 +7,7 @@ Stellar Cam是一套智能安全照明系统，可以用手机控制灯和摄像
 ## 获取应用
 
 * iOS 用户在“App Store”中搜索并安装“Stellar Cam”。 
-* 安卓用户在Google Play、豌豆荚中搜索并安装“Stellar Cam”。 
+* 安卓用户在Google Play中搜索并安装“Stellar Cam”。 
 * 或扫描下方二维码，下载应用。
 
 ## 安装设备
