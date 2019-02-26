@@ -111,11 +111,10 @@ Setting the time period for disabled alert and video record functions.
 ### 10. Setting the light
 
 1. Setting the time period for automatic switching-on, usually set the night as the time period.
-
-![](./images/18.jpg)
-
-2. Setting the coverage range and area of the infrared sensing. 
-3. Setting the light-up duration time of the light.
+2. Setting the daytime mode, the light will switch on when infrared sensors detected motion if daytime mode is on. 
+![](./images/20.jpeg)
+3. Setting the coverage range and area of the infrared sensing. 
+4. Setting the light-up duration time of the light.
 
 ![](./images/19.jpg)
 
