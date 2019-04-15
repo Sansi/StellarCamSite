@@ -81,7 +81,7 @@ Fix the product and the camera to suitable positions. Then connect the product w
 4. Hold the microphone button for real-time intercom.
 
 ![](./images/13.PNG)
-	
+
 ### 7. Device details
 
 1. Change the description of the device
@@ -91,7 +91,8 @@ Fix the product and the camera to suitable positions. Then connect the product w
 5. Delete the device
 
 ![](./images/14.PNG)
- 	
+
+
 ### 8. Event history
 
 1. The alert videos can be saved for 30 days.
