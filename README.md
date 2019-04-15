@@ -4,17 +4,16 @@
 
 Stellar Cam is an intelligent security lighting system. With your mobile phone you can control the light and the camera. The system features: real-time camera monitoring, real-time intercom, automatic video recording/saving suspicious events, alert push notifications to your mobile phone, alarm sounding, scheduling for switching on/off, infrared sensing etc.
 
-## Getting the App
+## Getting the app
 
 * iOS users: Search the Stellar Cam App in the App Store and then install it.  
 * Android users: Search the Stellar Cam App in the Google Play store and then install it. 
-* Or scan the QR code below to download the App. 
 
 ## Installing the product
 
 Fix the product and the camera to suitable positions. Then connect the product with the power supply.
 
-## Introducing the App
+## Introducing the app
 
 ### 1. Registering your account
 
@@ -27,12 +26,12 @@ Fix the product and the camera to suitable positions. Then connect the product w
 ![](./images/2.PNG)
 
 ### 2. Managing the account
-* Click the icon ＠ in the sidebar to access the account information for editing the display name, email address and password. 
+* Click the pencil icon in the sidebar to access the account information for editing the display name, email address and password. 
 
 ![](./images/3.PNG)
 ![](./images/4.PNG)
 
-* Select “Settings” in the sidebar to access the setting.
+* Tap “Settings” in the sidebar to access the setting.
 
 * In “About” you can visit the SANSI official website and contact us via email. 
 
@@ -45,7 +44,7 @@ Fix the product and the camera to suitable positions. Then connect the product w
 
 ![](./images/7.PNG)
 
-3. Reading the installation tutorial
+3. Read the installation guide.
 
 ![](./images/8.PNG)
 
@@ -53,13 +52,14 @@ Fix the product and the camera to suitable positions. Then connect the product w
 
 ![](./images/9.PNG)
 
-5. If the connection is successfully set up, go back to the App’s homepage and you can find the device list. If you cannot find the device after refreshing the list several times, repeat the procedure as mentioned above.
+5. If the connection is successfully set up, go back to the app’s homepage and you can find the device list. If you cannot find the device after refreshing the list several times, repeat the procedure as mentioned above.
 
 ![](./images/10.PNG)
 
 ### 4. Playing motion alert videos
 
-1. Playing motion alert videos. To download the video select the button in the top right corner. You can watch the downloaded video in the “Downloaded videos” sidebar. 
+1. To download the video, tap the button in the top right corner. 
+2. You can watch the downloaded video in the “Downloaded videos” sidebar. 
 
 ![](./images/11.PNG)
 
@@ -69,16 +69,16 @@ Fix the product and the camera to suitable positions. Then connect the product w
 2. Click the upper image to access the live video.
 3. SIREN: Alarm sounds until manually switched off.
 4. MOTION ALERTS: Configure the phone to receive motion alert push notifications. 
-5. LIGHTS: switching on / off the product
+5. LIGHTS: Switching on/off the product
 
 ![](./images/12.PNG)
 
-### 6. Online live-video
+### 6. Live video
 
 1. Watch real-time monitoring videos via the camera. 
-2. Select the video resolution on the top-right side of the screen.
-3. Switch on/off the product and the alarm sound.
-4. Hold the microphone button for real-time intercom.
+2. Toggle video resolution by tapping the top-right button.
+3. Switch on/off the light, audio output or the siren.
+4. Hold the microphone button for real-time voice chat.
 
 ![](./images/13.PNG)
 
@@ -87,11 +87,10 @@ Fix the product and the camera to suitable positions. Then connect the product w
 1. Change the description of the device
 2. Check the MAC address
 3. Upgrade the hardware
-4. Update the software 
+4. Update the software
 5. Delete the device
 
 ![](./images/14.PNG)
-
 
 ### 8. Event history
 
@@ -99,26 +98,26 @@ Fix the product and the camera to suitable positions. Then connect the product w
 
 ![](./images/15.PNG)
 
-### 9. Motion Settings
+### 9. Motion settings
 
-1. Setting alerts and video record functions. 
-2. Setting the motion sensitivity of the camera.
+1. Set alerts and video record functions. 
+2. Set the motion sensitivity of the camera.
 
 ![](./images/16.PNG)
 
-Setting the time period for disabled alert and video record functions.
+Set the time period for disabled alert and video record functions.
 
 ![](./images/17.PNG)
 	
-### 10. Light Settings 
+### 10. Light settings 
 
-1. Setting the time period for automatic switching-on, usually set the night as the time period.
-2. Setting daytime mode. The light will switch on when infrared sensors detect motion if daytime mode is on. 
+1. Set the time period for automatic switching-on, usually set the night as the time period.
+2. Set daytime mode. The light will switch on when infrared sensors detect motion if daytime mode is on. 
 
 ![](./images/20.PNG)
 
-3. Setting the coverage range and area of the infrared sensing. 
-4. Setting the light-up duration time of the light.
+3. Set the coverage range and area of the infrared sensing. 
+4. Set the light-up duration time of the light.
 
 ![](./images/19.PNG)
 
