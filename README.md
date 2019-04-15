@@ -1,5 +1,21 @@
 # Stellar Cam Support
 
+- [Stellar Cam Support](#stellar-cam-support)
+  - [Introduction](#introduction)
+  - [Getting the app](#getting-the-app)
+  - [Installing the product](#installing-the-product)
+  - [Introducing the app](#introducing-the-app)
+    - [1. Registering your account](#1-registering-your-account)
+    - [2. Managing the account](#2-managing-the-account)
+    - [3. Adding a device](#3-adding-a-device)
+    - [4. Playing motion alert videos](#4-playing-motion-alert-videos)
+    - [5. Devices](#5-devices)
+    - [6. Live video](#6-live-video)
+    - [7. Device details](#7-device-details)
+    - [8. Event history](#8-event-history)
+    - [9. Motion settings](#9-motion-settings)
+    - [10. Light settings](#10-light-settings)
+
 ## Introduction
 
 Stellar Cam is an intelligent security lighting system. With your mobile phone you can control the light and the camera. The system features: real-time camera monitoring, real-time intercom, automatic video recording/saving suspicious events, alert push notifications to your mobile phone, alarm sounding, scheduling for switching on/off, infrared sensing etc.
