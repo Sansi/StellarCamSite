@@ -45,7 +45,7 @@ Fix the product and the camera to suitable positions. Then connect the product w
 
 ![](./images/7.PNG)
 
-3. Reading the install tutorial
+3. Reading the installation tutorial
 
 ![](./images/8.PNG)
 
